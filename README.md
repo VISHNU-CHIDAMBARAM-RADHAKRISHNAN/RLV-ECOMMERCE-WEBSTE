@@ -35,7 +35,7 @@ Project is created with:
 
 
 
-    HTML, CSS, Java Script, MySQL , Nextjs , Expressjs
+    HTML, CSS, JavaScript, MySQL , Nextjs , Expressjs
  
  
  
