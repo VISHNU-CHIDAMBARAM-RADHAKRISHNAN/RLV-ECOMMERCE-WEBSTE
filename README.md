@@ -23,7 +23,7 @@ https://gemoo.com/tools/upload-video/share/667749491532931072?codeId=PaZZbyOYZLy
 ## Technologies
 Project is created with:
 
-![Tux, the Linux mascot](https://img.icons8.com/color/48/40C057/html-5--v1.png)   ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/css3.png) ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/javascript.png) ![Tux, the Linux mascot](https://img.icons8.com/color/48/000000/mysql.png) ![Tux, the Linux mascot](https://icons8.com/icon/yUdJlcKanVbh/nextjs)
+![Tux, the Linux mascot](https://img.icons8.com/color/48/40C057/html-5--v1.png)   ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/css3.png) ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/javascript.png) ![Tux, the Linux mascot](https://img.icons8.com/color/48/000000/mysql.png) ![Tux, the Linux mascot](https://icons8.com/icon/yUdJlcKanVbh/nextjs.png)
 
     HTML, CSS, Java Script, MySQL , Nextjs , Expressjs
  
