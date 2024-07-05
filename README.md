@@ -16,7 +16,7 @@ THIS IS ECOMMERCE WEBSITE
 
 ## Sample video
 title: RVC-ECOMMERCE-WEBSTE
-product_video: 'https://gemoo.com/tools/upload-video/share/667749491532931072?codeId=PaZZbyOYZLyYZ&card=667749487284101120&origin=videolinkgenerator'
+https://www.veed.io/view/01aa856a-7941-4da0-a341-d2827f63578f?panel=share
 
 https://gemoo.com/tools/upload-video/share/667749491532931072?codeId=PaZZbyOYZLyYZ&card=667749487284101120&origin=videolinkgenerator
 
