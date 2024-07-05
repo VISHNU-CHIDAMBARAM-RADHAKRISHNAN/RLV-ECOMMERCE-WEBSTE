@@ -48,8 +48,10 @@ Project is created with:
 ## social media
 
 
-| Name | Linkedin Profile |
+| Name | Vishnu chidambaram R |
 | ---------------|---------------|
-| Vishnu chidambaram R| https://www.linkedin.com/in/vishnu-chidambaram-r|
+| Linkedin Profile| https://www.linkedin.com/in/vishnu-chidambaram-r |
+| Gmail id| vishnuhero2001@gmail.com |
+
 
 
