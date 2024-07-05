@@ -15,6 +15,8 @@ THIS IS ECOMMERCE WEBSITE
 #3)THEN CHECK WEBSITE USING LOCALHOST LINK OF RUNING THE NEXTJS FRAMEWORK
 
 ## Sample video
+title: RVC-ECOMMERCE-WEBSTE
+product_video: 'https://gemoo.com/tools/upload-video/share/667749491532931072?codeId=PaZZbyOYZLyYZ&card=667749487284101120&origin=videolinkgenerator'
 
 https://gemoo.com/tools/upload-video/share/667749491532931072?codeId=PaZZbyOYZLyYZ&card=667749487284101120&origin=videolinkgenerator
 
