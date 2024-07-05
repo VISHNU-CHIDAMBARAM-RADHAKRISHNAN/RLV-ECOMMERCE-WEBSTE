@@ -14,6 +14,10 @@ THIS IS ECOMMERCE WEBSITE
      this is connect database and frontend 
 #3)THEN CHECK WEBSITE USING LOCALHOST LINK OF RUNING THE NEXTJS FRAMEWORK
 
+## Sample video
+
+https://gemoo.com/tools/upload-video/share/667749491532931072?codeId=PaZZbyOYZLyYZ&card=667749487284101120&origin=videolinkgenerator
+
 ## Technologies
 Project is created with:
 
