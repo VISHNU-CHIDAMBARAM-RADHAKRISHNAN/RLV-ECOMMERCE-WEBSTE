@@ -31,3 +31,11 @@ Project is created with:
 ## Author
 - [Github@ VISHNU CHIDAMBARAM R](https://www.github.com/VISHNU-CHIDAMBARAM-RADHAKRISHNAN)
 
+## social media
+
+
+| Name | Linkedin Profile |
+| ---------------|---------------|
+| Vishnu chidambaram R| https://www.linkedin.com/in/vishnu-chidambaram-r|
+
+
