@@ -1,0 +1,63 @@
+/* Login Form Page CSS */
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image:radial-gradient( rgb(249, 149, 251),white);  
+    height: 88.5vh;
+  }
+  
+  .form {
+    width: 400px;
+    padding: 40px;
+    background-color: #8ce2ea;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form h1 {
+    text-align: center;
+    margin-bottom: 18px;
+  }
+  
+  .form input[type="text"],
+  .form input[type="password"] {
+    width: 90%;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    background-color: #d1f5f8;
+    
+    border-radius: 4px;
+  }
+  
+  .button2 {
+    width: 90%;
+    padding: 10px;
+    margin: 20px;
+    background-color: #40b144;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button2:hover {
+    background-color: #45a049;
+  }
+  
+  .form p {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .form p a {
+    color: #4caf50;
+    text-decoration: none;
+  }
+  
+  .form p a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,82 @@
+/* Login Form Page CSS */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image:radial-gradient( rgb(249, 149, 251) ,white );  height: 100vh;
+}
+
+.pred {
+  color: red;
+}
+
+.form {
+  width: 400px;
+  padding: 40px;
+  background-color: #8ce2ea;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form h1 {
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.form input[type="text"],
+.form input[type="email"],
+.form input[type="password"] {
+  width: 90%;
+  padding: 6px;
+  margin: 18px;
+  background-color: #d1f5f8;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.button1 {
+  width: 90%;
+  padding: 6px;
+  margin: 18px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button1:hover {
+  background-color: #45a049;
+}
+
+.cancel {
+  width: 90%;
+  padding: 6px;
+  margin: 18px;
+  background-color: #ec2409;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+
+}
+
+.cancel:hover {
+  background-color: #f82206fc;
+}
+
+.form p {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.form p a {
+  color: #4caf50;
+  text-decoration: none;
+}
+
+.form p a:hover {
+  text-decoration: underline;
+}

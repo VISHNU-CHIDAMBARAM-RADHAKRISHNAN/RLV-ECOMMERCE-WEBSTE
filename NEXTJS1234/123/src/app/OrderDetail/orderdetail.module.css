@@ -1,0 +1,106 @@
+/* Example CSS code for styling the web page */
+.container {
+    max-width: 1300px;
+    margin: 0px ;
+    padding: 20px;
+    margin-bottom: auto;
+    background-color: white;
+  }
+  
+  .h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    background-color: white;
+  }
+  
+  .p {
+    margin-bottom: 5px;
+    
+  }
+  
+  .img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    /* text-align: center; */
+  }
+
+
+  
+  .order-details {
+    margin-left: 20px;
+    padding-left: 10px;
+    border-left: 2px solid #ccc;
+  }
+  
+  .orderDetail {
+    margin-left:10%;
+    margin-right: 10%;
+    margin-bottom: 30px;
+  }
+  
+  .productDetail {
+    margin-bottom: 0px;
+  }
+  
+  .tableView {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+  }
+  
+  .th,
+  .td {
+    padding: 20px;
+    border: 1px solid #313030;
+  }
+  
+  .th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .tr:nth-child(all) {
+    background-color: #f2f2f2;
+  }
+  
+  .tr:hover {
+    background-color: #ddd;
+    border: 1.5px solid #f60303;
+  }
+  .right{
+    position: absolute;
+    right: 8%;
+    top:18%;
+  }
+.button{
+  background-color: red;
+  color:white;
+  padding:6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 40px;
+  font-size: 15px;
+  border-radius:10%;
+}
+.confirmButton {
+  /* Add your button styling here */
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  position: absolute;
+  top:90%
+}
+
+.confirmButton:hover {
+  background-color: #45a049;
+}
