@@ -45,7 +45,7 @@ Project is created with:
 
 
 ## Author
-- [Github@ VISHNU CHIDAMBARAM R](https://www.github.com/VISHNU-CHIDAMBARAM-RADHAKRISHNAN)
+- [Github @ VISHNU CHIDAMBARAM R](https://www.github.com/VISHNU-CHIDAMBARAM-RADHAKRISHNAN)
 
 ## social media
 
@@ -53,7 +53,7 @@ Project is created with:
 | Name | Vishnu chidambaram R |
 | ---------------|---------------|
 | Linkedin Profile| https://www.linkedin.com/in/vishnu-chidambaram-r |
-| Gmail id| vishnuhero2001@gmail.com |
+| Gmail id| vishnuchidambarampmv@gmail.com |
 
 
 
