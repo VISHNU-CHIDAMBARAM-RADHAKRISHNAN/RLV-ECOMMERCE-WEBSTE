@@ -16,10 +16,6 @@ BUILT BY VISHNU CHIDAMBARAM RADHAKRISHNAN
      
 3)THEN CHECK WEBSITE USING LOCALHOST LINK OF RUNING THE NEXTJS FRAMEWORK
 
-## Sample video
-Title: RVC-ECOMMERCE-WEBSTE
-
-https://gemoo.com/tools/upload-video/share/667749491532931072?codeId=PaZZbyOYZLyYZ&card=667749487284101120&origin=videolinkgenerator
 
 ## Technologies
 Project is created with:
